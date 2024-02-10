@@ -1200,6 +1200,10 @@ input:checked + .toggle-bg {
   margin-top: 1.5rem;
 }
 
+.mb-56 {
+  margin-bottom: 14rem;
+}
+
 .block {
   display: block;
 }
